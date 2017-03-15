@@ -15,4 +15,5 @@
     <string name="labelemail">Correo electronico</string>
     <string name="labelcom">comentario</string>
     <string name="txt_button">Actualizar</string>
+    <string name="str_title_toolbar">Volver a la lista principal</string>
 </resources>
