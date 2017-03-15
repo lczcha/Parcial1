@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Parcial1</string>
+    <string name="labelcontact1">Nombre Contacto 1</string>
+    <string name="labelcontact2">Nombre contacto 2</string>
+    <string name="labelcontact3">Nombre contacto 3</string>
+    <string name="labelcontact4">Nombre contacto 4</string>
+    <string name="labelcontact5">Nombre contacto 5</string>
+    <string name="labelcontact6">Nombre contacto 6</string>
+    <string name="labelcontact7">Nombre contacto 7</string>
+    <string name="labelcontact8">Nombre contacto 8</string>
+    <string name="labelname">Nombre Luis Carlos </string>
+    <string name="labelap">Apellido:Zuñiga</string>
+    <string name="labelage">Edad:22</string>
+    <string name="labelcell">Telefono:31777940603</string>
+    <string name="labelemail">Correo electronico</string>
+    <string name="labelcom">comentario</string>
+    <string name="txt_button">Actualizar</string>
+</resources>
